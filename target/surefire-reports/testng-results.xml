@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="petstoreSuite" duration-ms="6014" started-at="2023-02-02T11:17:14 EST" finished-at="2023-02-02T11:17:20 EST">
+    <groups>
+    </groups>
+    <test name="usermoduleTest" duration-ms="6014" started-at="2023-02-02T11:17:14 EST" finished-at="2023-02-02T11:17:20 EST">
+      <class name="apitests.UserModuleTestcase2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.UserModuleTestcase2@3e57cd70]" name="setup" is-config="true" duration-ms="1197" started-at="2023-02-02T11:17:14 EST" finished-at="2023-02-02T11:17:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcreateuser()[pri:1, instance:apitests.UserModuleTestcase2@3e57cd70]" name="testcreateuser" duration-ms="3440" started-at="2023-02-02T11:17:16 EST" finished-at="2023-02-02T11:17:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateuser -->
+        <test-method status="PASS" signature="testgetuser()[pri:2, instance:apitests.UserModuleTestcase2@3e57cd70]" name="testgetuser" duration-ms="272" started-at="2023-02-02T11:17:19 EST" finished-at="2023-02-02T11:17:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetuser -->
+        <test-method status="PASS" signature="testupdateuser()[pri:3, instance:apitests.UserModuleTestcase2@3e57cd70]" name="testupdateuser" duration-ms="440" started-at="2023-02-02T11:17:19 EST" finished-at="2023-02-02T11:17:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateuser -->
+        <test-method status="PASS" signature="deleteuser()[pri:4, instance:apitests.UserModuleTestcase2@3e57cd70]" name="deleteuser" duration-ms="217" started-at="2023-02-02T11:17:20 EST" finished-at="2023-02-02T11:17:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser -->
+      </class> <!-- apitests.UserModuleTestcase2 -->
+    </test> <!-- usermoduleTest -->
+  </suite> <!-- petstoreSuite -->
+</testng-results>

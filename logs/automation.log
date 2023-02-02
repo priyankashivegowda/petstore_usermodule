@@ -1,0 +1,23 @@
+12:24:30.334 [main] INFO  apitests.UserModuleTestcase2 - getting user details
+12:24:34.529 [main] INFO  apitests.UserModuleTestcase2 - updating user
+12:24:36.300 [main] INFO  apitests.UserModuleTestcase2 - delete user
+12:26:54.453 [main] INFO  apitests.UserModuleTestcase2 - creating user
+12:26:58.118 [main] INFO  apitests.UserModuleTestcase2 - getting user details
+12:26:59.825 [main] INFO  apitests.UserModuleTestcase2 - updating user
+12:27:00.308 [main] INFO  apitests.UserModuleTestcase2 - delete user
+12:41:55.020 [main] INFO  apitests.UserModuleTestcase2 - creating user
+12:42:00.373 [main] INFO  apitests.UserModuleTestcase2 - getting user details
+12:42:00.667 [main] INFO  apitests.UserModuleTestcase2 - updating user
+12:42:01.121 [main] INFO  apitests.UserModuleTestcase2 - delete user
+14:49:43.578 [main] INFO  apitests.UserModuleTestcase2 - creating user
+14:49:50.203 [main] INFO  apitests.UserModuleTestcase2 - getting user details
+14:49:50.572 [main] INFO  apitests.UserModuleTestcase2 - updating user
+14:49:51.018 [main] INFO  apitests.UserModuleTestcase2 - delete user
+18:17:31.230 [main] INFO  apitests.UserModuleTestcase2 - creating user
+18:17:40.125 [main] INFO  apitests.UserModuleTestcase2 - getting user details
+18:17:40.442 [main] INFO  apitests.UserModuleTestcase2 - updating user
+18:17:40.920 [main] INFO  apitests.UserModuleTestcase2 - delete user
+11:17:16.030 [main] INFO  apitests.UserModuleTestcase2 - creating user
+11:17:19.486 [main] INFO  apitests.UserModuleTestcase2 - getting user details
+11:17:19.758 [main] INFO  apitests.UserModuleTestcase2 - updating user
+11:17:20.200 [main] INFO  apitests.UserModuleTestcase2 - delete user
